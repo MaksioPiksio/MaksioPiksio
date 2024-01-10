@@ -15,5 +15,4 @@ const info = {
 
 ## Find me around the web 🌍:
 
--   📧 [Email](mailto:koniczynszef@gmail.com)
--   🔗 [Linkedin](https://www.linkedin.com/in/piotr-ko%C5%84czyk-866142251/)
+-   📧 [Email](mailto:maksio.piksio@icloud.com)
