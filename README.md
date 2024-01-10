@@ -8,6 +8,7 @@ const info = {
     country: 'Poland',
     technologies: ['TypeScript', 'React', 'THREE.js', express],
     grade: 'high school',
+    certificates: 'pasja-informatyki-certificate',
 };
 ```
 
