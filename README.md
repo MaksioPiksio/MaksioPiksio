@@ -1,4 +1,4 @@
-# MaksioPiksio 👨‍❤️‍💋‍👨
+# MaksioPiksio 🔥
 
 ```tsx
 import React from 'react';
