@@ -1,17 +1,17 @@
-# KoniczynSzef 🍀
+# MaksioPiksio 👨‍❤️‍💋‍👨
 
 ```ts
 // Some information about me
 
 const info = {
-    name: 'Piotr',
+    name: 'Maks',
     country: 'Poland',
-    technologies: ['Next.js', 'TypeScript', 'React'],
+    technologies: ['TypeScript', 'React', 'THREE.js'],
     grade: 'high school',
 };
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koniczynszef&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksioPiksio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍💻 Passionate Coder
 
