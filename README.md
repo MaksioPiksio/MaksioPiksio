@@ -2,7 +2,7 @@
 
 ```tsx
 import React from 'react';
-import infoType from './types/infoType.ts';
+import infoType from './types/infoType';
 
 function MyInfoComponent(){
     const info :infoType = {
