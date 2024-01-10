@@ -1,10 +1,11 @@
 # MaksioPiksio 👨‍❤️‍💋‍👨
 
-```ts
+```tsx
 import React from 'react';
+import infoType from './types/infoType.ts';
 
-const MyInfoComponent: React.FC = () => {
-    const info = {
+function MyInfoComponent(){
+    const info :infoType = {
         name: 'Maks',
         country: 'Poland',
         technologies: ['TypeScript', 'React', 'THREE.js', 'express'],
