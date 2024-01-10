@@ -34,7 +34,7 @@ export default MyInfoComponent;
 -    💹[Steam Investment](https://steam-investments.vercel.app)
 -    🪐[Solar System](https://solar-system-xi-seven.vercel.app)
 -    🚐[Transport Site](http://www.kat-pol-transport.pl)
--    
+
 ## Find me around the web 🌍:
 
 -   📧 [Email](mailto:maksio.piksio@icloud.com)
