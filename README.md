@@ -1,16 +1,35 @@
-### Hi there 👋
+# KoniczynSzef 🍀
 
-<!--
-**MaksioPiksio/MaksioPiksio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ts
+// Some information about me
 
-Here are some ideas to get you started:
+const info = {
+    name: 'Piotr',
+    country: 'Poland',
+    technologies: ['Next.js', 'TypeScript', 'React'],
+    grade: 'high school',
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koniczynszef&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👨‍💻 Passionate Coder
+
+```
+Welcome to my digital realm! I'm not just a coder; 
+I'm turning lines of code into functional works of art.
+```
+
+### 🌟 Craftsmanship
+![Quality](https://img.shields.io/badge/Quality-Exceptional-brightgreen)
+
+### 🧠 Continuous Development
+![Learning](https://img.shields.io/badge/Learning-Perpetual-blue)
+
+### 💪 Dedication Unleashed
+![Dedication](https://img.shields.io/badge/Dedication-Unwavering-red)
+
+## Find me around the web 🌍:
+
+-   📧 [Email](mailto:koniczynszef@gmail.com)
+-   🔗 [Linkedin](https://www.linkedin.com/in/piotr-ko%C5%84czyk-866142251/)
