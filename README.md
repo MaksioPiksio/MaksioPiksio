@@ -1,32 +1,11 @@
 # MaksioPiksio 🔥
 
-```tsx
-import React from 'react';
-import infoType from './types/infoType';
-
-function MyInfoComponent(){
-    const info: infoType = {
-        name: 'Maks',
-        country: 'Poland',
-        technologies: ['TypeScript', 'React', 'THREE.js', 'express'],
-        grade: 'high school',
-        certificates: ['pasja-informatyki-certificate', 'Cisco'],
-    };
-
-    return (
-        <div>
-            <h1>My Information</h1>
-            <p>Name: {info.name}</p>
-            <p>Country: {info.country}</p>
-            <p>Technologies: {info.technologies.join(', ')}</p>
-            <p>Grade: {info.grade}</p>
-            <p>Certificates: {info.certificates.join(', ')}</p>
-        </div>
-    );
-};
-
-export default MyInfoComponent;
-```
+    🌐 Maks from Poland
+    📚 TypeScript, React, THREE.js, express
+    🏫 High school student
+    🌱 I'm currently learning TypeScript
+    💬 Ask me about pasja-informatyki
+    😄 Pronouns: He/Him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaksioPiksio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
