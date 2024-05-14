@@ -17,4 +17,4 @@
 ## Find me around the web 🌍:
 
 -   📧 [Email](mailto:maksio.piksio@icloud.com)
-  
+-   [chesscom]: https://www.chess.com/member/maksio-piksio
