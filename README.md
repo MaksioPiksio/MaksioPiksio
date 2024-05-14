@@ -18,5 +18,4 @@
 
 -   📧 [Email](mailto:maksio.piksio@icloud.com)
   
-[<img align="left" alt="agod1373 | Chess.com" target="_blank" width="23px" src="./chesscom.png" />][chesscom]
-[chesscom]: https://www.chess.com/member/maksio-piksio
+[<img align="left" alt="agod1373 | Chess.com" target="https://www.chess.com/member/maksio-piksio" width="23px" src="./chesscom.png" />]
